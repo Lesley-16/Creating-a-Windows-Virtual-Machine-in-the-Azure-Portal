@@ -6,5 +6,10 @@ This project demonstrates how to create and configure a Windows Virtual Machine 
 -	Microsoft Azure account
 -	Basic understanding of cloud computing
 -	Remote Desktop client (e.g., Windows RDP)
-	
+
+## Steps Taken
+### 1. Select VM Image
+- Chose a Windows Server image from the Azure Marketplace.
+### 2
+
 
