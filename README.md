@@ -10,7 +10,7 @@ This project demonstrates how to create and configure a Windows Virtual Machine 
 ## Steps Taken
 ### 1. Select VM Image
 - Chose a Windows Server image from the Azure Marketplace.
-### 2.	Configure VM Size
+### 2. Configure VM Size
 -	Selected a VM size based on performance and cost requirements (e.g., Standard B1s(1 vcpu, 1 GiB memory)).
 ### 3.	Set Up Networking
 -	Created a virtual network and subnet.
