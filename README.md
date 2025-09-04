@@ -10,6 +10,15 @@ This project demonstrates how to create and configure a Windows Virtual Machine 
 ## Steps Taken
 ### 1. Select VM Image
 - Chose a Windows Server image from the Azure Marketplace.
-### 2
+### 2.	Configure VM Size
+⦁	Selected a VM size based on performance and cost requirements (e.g., Standard B2s).
+### 3.	Set Up Networking
+⦁	Created a virtual network and subnet.
+⦁	Configured Network Security Group (NSG) to allow RDP (port 3389).
+### 4.	Install Software
+⦁	Installed IIS Web Server or other required software after VM provisioning.
+### 5.	Connect via RDP
+⦁	Used the public IP address and credentials to connect to the VM using Remote Desktop.
+
 
 
