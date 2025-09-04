@@ -20,5 +20,11 @@ This project demonstrates how to create and configure a Windows Virtual Machine 
 ### 5.	Connect via RDP
 -	Used the public IP address and credentials to connect to the VM using Remote Desktop.
 
+ ## Technologies Used
+- Microsoft Azure Portal
+-	Windows Server
+-	Remote Desktop Protocol (RDP)
+-	IIS Web Server
+
 
 
